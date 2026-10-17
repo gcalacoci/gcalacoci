@@ -9,7 +9,7 @@ ship database products, and lately the tooling that lets AI agents use a databas
 - **[Barman](https://github.com/EnterpriseDB/barman)**: the open-source backup and recovery
   manager for PostgreSQL. Developer since 2013, tech lead of the team at EDB from 2023 to 2026.
 - **[pg-airman-mcp](https://github.com/EnterpriseDB/pg-airman-mcp)**: an MCP server that
-  gives AI agents governed access to PostgreSQL. I took it from an abandoned fork to 1.0:
+  gives AI agents governed access to PostgreSQL. I took it from a then-inactive fork to 1.0:
   OAuth 2.0, streamable HTTP, purpose logging and session tracing.
 - **Delivery platforms**: I built the continuous delivery systems at 2ndQuadrant and at
   EDB, where Foundation builds, tests and publishes every EDB product (internal, so not
