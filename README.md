@@ -14,17 +14,22 @@ ship database products, and lately the tooling that lets AI agents use a databas
 - **Delivery platforms**: I built the continuous delivery systems at 2ndQuadrant and at
   EDB, where Foundation builds, tests and publishes every EDB product (internal, so not
   on GitHub).
+- **[session-council](https://github.com/gcalacoci/session-council)**: rules and a judge
+  skill for several Claude Code sessions that review each other's work on one project.
+  I approve every decision.
 
-### Talks
+### Writing and talks
 
-PGConf.EU, EuroPython, PyCon Italia, DataOps Barcelona and more, all recorded:
-[gcalacoci.github.io/talks](https://gcalacoci.github.io/talks/)
+I write at [gcalacoci.com](https://gcalacoci.com/posts/): a series on searching for a job
+in the AI era, and how my Claude Code sessions review each other. Talks at PGConf.EU,
+EuroPython, PyCon Italia, DataOps Barcelona and more, all recorded:
+[gcalacoci.com/talks](https://gcalacoci.com/talks/)
 
 ### Now
 
-Looking for a tech lead or principal engineer role in a team that designs and builds
-together, remote (EU / US) or around Florence.
+Looking for a tech lead, principal engineer or engineering manager role in a team that
+designs and builds together, remote or around Florence.
 
-[Website](https://gcalacoci.github.io) ·
-[Resume](https://gcalacoci.github.io/resume/) ·
+[Website](https://gcalacoci.com) ·
+[Resume](https://gcalacoci.com/resume/) ·
 [LinkedIn](https://www.linkedin.com/in/gcalacoci/)
